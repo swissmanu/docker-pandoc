@@ -22,12 +22,17 @@ RUN apk add --update --no-cache \
 RUN tlmgr update --self && \
   tlmgr install \
     collection-fontsrecommended \
-    xstring \
-    totpages \
+    atenddvi \
+    comment \
+    draftwatermark \
     environ \
+    framed \
     hyperxmp \
+    mdframed \
     ifmtarg \
     ncctools \
-    comment \
     preprint \
-    draftwatermark
+    totpages \
+    trimspaces \
+    xstring \
+    zref
