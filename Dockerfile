@@ -35,7 +35,11 @@ RUN tlmgr update --self && \
     totpages \
     trimspaces \
     xstring \
-    zref
+    zref \
+    silence \
+    fira \
+    noto \
+    fontaxes
 
 RUN cd /tmp && \
   curl -o pandoc-crossref.tar.xz -L https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.10.0a/pandoc-crossref-Linux.tar.xz && \
