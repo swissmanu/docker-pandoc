@@ -1,12 +1,14 @@
 # 🐳 `ghcr.io/swissmanu/pandoc`
 
-Docker image to build Pandoc documents
+Docker image to build 🐼 Pandoc documents
 
 ## Good to Know
 
-Includes LaTeX packages required for building:
+Includes additional LaTeX packages:
 
-- `acmart` template
+- `pgfpflots`
+- `ccicons`
+- Everything to render the `acmart` template
 
 Further, these Pandoc filters are included:
 
