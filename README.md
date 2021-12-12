@@ -8,6 +8,7 @@ Includes additional LaTeX packages:
 
 - `pgfpflots`
 - `ccicons`
+- `multirow`
 - Everything to render the `acmart` template
 
 Further, these Pandoc filters are included:

@@ -42,7 +42,8 @@ RUN tlmgr update --self && \
     fontaxes \
     libertine \
     ccicons \
-    pgfplots
+    pgfplots \
+    multirow
 
 RUN cd /tmp && \
   curl -o pandoc-crossref.tar.xz -L https://github.com/lierdakil/pandoc-crossref/releases/download/v0.3.10.0a/pandoc-crossref-Linux.tar.xz && \
