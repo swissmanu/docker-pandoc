@@ -15,6 +15,7 @@ Includes additional LaTeX packages:
 Further, these Pandoc filters are included:
 
 - [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)
+- [pandoc-shortcaption](https://github.com/martisak/pandoc-shortcaption)
 
 ## References
 
