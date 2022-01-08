@@ -10,6 +10,7 @@ Includes additional LaTeX packages:
 - `ccicons`
 - `multirow`
 - Everything to render the `acmart` template
+- `selnolig` so `--pdf-engine=lualatex` can be used
 
 Further, these Pandoc filters are included:
 
