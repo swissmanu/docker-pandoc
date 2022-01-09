@@ -16,6 +16,7 @@ Further, these Pandoc filters are included:
 
 - [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref)
 - [pandoc-shortcaption](https://github.com/martisak/pandoc-shortcaption)
+- [pandoc-latex-unlisted](https://github.com/chdemko/pandoc-latex-unlisted)
 
 ## References
 

@@ -19,7 +19,7 @@ RUN apk add --update --no-cache \
   ttf-droid \
   ttf-droid-nonlatin
 
-RUN pip install pandoc-shortcaption
+RUN pip install pandoc-shortcaption pandoc-latex-unlisted
 
 RUN tlmgr update --self && \
   tlmgr install \
