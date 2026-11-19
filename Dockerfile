@@ -1,5 +1,5 @@
 
-FROM pandoc/latex:2.13
+FROM pandoc/latex:3.14
 
 ENV PYTHONUNBUFFERED=1
 ENTRYPOINT []
